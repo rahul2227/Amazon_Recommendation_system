@@ -1,4 +1,4 @@
-# Amazon_Recommendation_System
+# Recommendation_System
 
 # Project Aimed:
 A recommendation system is an extensive class of web applications that involves predicting the user responses to the options.
